@@ -12,5 +12,5 @@ The circuit is designed for ~12V input voltage, connected on the left connector.
 
 The bottom connector is for audio input, Left and right. It assumes the audio source shares the GND with the power source.
 
-See the [blog post]() for more details on the build process and a bunch of photos.
+See the [blog post](http://michd.me/blog/turntable-vu-meters/) for more details on the build process and a bunch of photos.
 
