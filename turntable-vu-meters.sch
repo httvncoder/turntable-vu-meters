@@ -14298,7 +14298,7 @@ RJ45 Jack connectors&lt;br&gt;
 <busses>
 </busses>
 <nets>
-<net name="N$1" class="0">
+<net name="N$3" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="LED1"/>
 <wire x1="53.34" y1="106.68" x2="53.34" y2="119.38" width="0.1524" layer="91"/>
@@ -14316,7 +14316,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J3" gate="G$5" pin="2"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="N$38" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="LED3"/>
 <wire x1="63.5" y1="106.68" x2="63.5" y2="114.3" width="0.1524" layer="91"/>
@@ -14325,7 +14325,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J3" gate="G$5" pin="3"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="N$39" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="LED4"/>
 <wire x1="68.58" y1="106.68" x2="68.58" y2="111.76" width="0.1524" layer="91"/>
@@ -14334,7 +14334,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J3" gate="G$5" pin="4"/>
 </segment>
 </net>
-<net name="N$5" class="0">
+<net name="N$40" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="LED5"/>
 <wire x1="73.66" y1="127" x2="73.66" y2="106.68" width="0.1524" layer="91"/>
@@ -14404,7 +14404,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J4" gate="G$5" pin="2"/>
 </segment>
 </net>
-<net name="N$13" class="0">
+<net name="N$1" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="LED3"/>
 <wire x1="154.94" y1="106.68" x2="154.94" y2="114.3" width="0.1524" layer="91"/>
@@ -14413,7 +14413,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J4" gate="G$5" pin="3"/>
 </segment>
 </net>
-<net name="N$14" class="0">
+<net name="N$4" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="LED4"/>
 <wire x1="160.02" y1="106.68" x2="160.02" y2="111.76" width="0.1524" layer="91"/>
@@ -14422,7 +14422,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J4" gate="G$5" pin="4"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="N$5" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="LED5"/>
 <wire x1="165.1" y1="106.68" x2="165.1" y2="127" width="0.1524" layer="91"/>
@@ -14447,7 +14447,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J4" gate="G$5" pin="9"/>
 </segment>
 </net>
-<net name="N$18" class="0">
+<net name="N$27" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="LED8"/>
 <wire x1="180.34" y1="106.68" x2="180.34" y2="114.3" width="0.1524" layer="91"/>
@@ -14456,7 +14456,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J4" gate="G$5" pin="8"/>
 </segment>
 </net>
-<net name="N$19" class="0">
+<net name="N$26" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="LED7"/>
 <wire x1="175.26" y1="106.68" x2="175.26" y2="111.76" width="0.1524" layer="91"/>
@@ -14546,7 +14546,7 @@ RJ45 Jack connectors&lt;br&gt;
 <wire x1="190.5" y1="109.22" x2="193.04" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$32" class="0">
+<net name="N$18" class="0">
 <segment>
 <pinref part="T1" gate="G$1" pin="E"/>
 <pinref part="R5" gate="G$1" pin="1"/>
@@ -14641,7 +14641,7 @@ RJ45 Jack connectors&lt;br&gt;
 <junction x="180.34" y="124.46"/>
 </segment>
 </net>
-<net name="N$26" class="0">
+<net name="N$37" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="V-"/>
 <wire x1="99.06" y1="78.74" x2="99.06" y2="71.12" width="0.1524" layer="91"/>
@@ -14712,7 +14712,7 @@ RJ45 Jack connectors&lt;br&gt;
 <pinref part="J2" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$27" class="0">
+<net name="N$15" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="MODE"/>
 <wire x1="86.36" y1="78.74" x2="86.36" y2="73.66" width="0.1524" layer="91"/>
